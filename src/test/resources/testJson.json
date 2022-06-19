@@ -1,0 +1,8 @@
+{
+  "name": "Hanna",
+  "isGoodStudent": true,
+  "age": 23,
+  "passport": {
+    "number": 12345
+  }
+}
